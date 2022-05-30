@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestHtmlBuilders" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-05-18T08:24:23" hostname="GORSHOK-PC" time="0.047">
+  <properties/>
+  <testcase name="productTableIsColored" classname="TestHtmlBuilders" time="0.045"/>
+  <testcase name="productTableIsFilled" classname="TestHtmlBuilders" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSmartCasts" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-05-17T08:03:54" hostname="GORSHOK-PC" time="0.015">
+  <properties/>
+  <testcase name="testNum" classname="TestSmartCasts" time="0.009"/>
+  <testcase name="testSum" classname="TestSmartCasts" time="0.003"/>
+  <testcase name="testRecursion" classname="TestSmartCasts" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

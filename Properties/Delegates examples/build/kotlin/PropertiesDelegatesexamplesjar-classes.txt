@@ -1,0 +1,1 @@
+D:\IDEAprojects\Kotlin Koans\Properties\Delegates examples\build\classes\java\main\LazyProperty.class

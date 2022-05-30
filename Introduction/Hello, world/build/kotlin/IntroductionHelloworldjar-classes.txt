@@ -1,0 +1,1 @@
+D:\IDEAprojects\Kotlin Koans\Introduction\Hello, world\build\classes\java\main\TaskKt.class
